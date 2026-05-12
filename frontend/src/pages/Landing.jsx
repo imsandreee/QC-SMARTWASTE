@@ -164,8 +164,7 @@ export default function Landing() {
           <img src="/assets/quezon_city_logo.svg" alt="Logo" style={{ height: '30px', marginRight: '8px' }} />
           QC SmartWaste
         </div>
-        <p>© 2024 QC SmartWaste — Smart Waste Bin Monitoring System · Quezon City, Philippines</p>
-        <p>Group #4 Capstone Project</p>
+        <p>© 2026 QC SmartWaste — Smart Waste Bin Monitoring System · Quezon City, Philippines</p>
       </footer>
     </div>
   );
